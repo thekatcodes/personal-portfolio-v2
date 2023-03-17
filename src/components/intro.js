@@ -1,3 +1,4 @@
+import React from 'react';
 export default function Intro() {
     return (
         <section class="home-page">
