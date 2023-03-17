@@ -1,6 +1,10 @@
 import * as React from "react";
 import Header from "../components/header";
 import Intro from "../components/intro";
+import About from "../components/about";
+import Projects from "../components/projects";
+import Footer from "../components/footer";
+import '../scss/main.scss'
 
 // const pageStyles = {
 //   color: "#232129",
@@ -171,6 +175,9 @@ const IndexPage = () => {
 		<main>
             <Header />
             <Intro />
+            <About />
+            <Projects />
+            <Footer />
 		</main>
 	);
 };
