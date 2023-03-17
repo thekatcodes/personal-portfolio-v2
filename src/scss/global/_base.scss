@@ -1,0 +1,17 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    height: 100%;
+    background-image: radial-gradient(circle at 3.79% 92.21%,
+            #a2aad0,
+            transparent 45%),
+        radial-gradient(circle at 15.23% 71.63%, #caafcc, transparent 48%),
+        radial-gradient(circle at 34.1% 72.55%, #f1c6d6, transparent 31%),
+        radial-gradient(circle at 59.88% 39.32%, #fee5e0, transparent 60%),
+        radial-gradient(circle at 50% 50.04%, #d2ddeb, transparent 100%),
+        radial-gradient(circle at 50% 50.04%, #fff5ed, transparent 100%),
+        radial-gradient(circle at 50% 50.04%, #adc6e3, transparent 100%),
+        radial-gradient(circle at 50% 50%, #99a0cb, #99a0cb 100%);
+}
