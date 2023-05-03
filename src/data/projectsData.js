@@ -1,6 +1,10 @@
 const pokedex = "src/images/pokedex.png";
 const snazzysnacks = "src/images/snazzysnacks.png";
 const scheduler = "src/images/scheduler.png";
+const resourcewall = "src/images/resourcewall.png";
+const tweeter = "src/images/tweeter.png";
+const weather = "src/images/weather.png";
+const portfoliov1 = "src/images/portfoliov1.png";
 
 export const projects = [
 	{
