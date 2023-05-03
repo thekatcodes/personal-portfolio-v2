@@ -2,16 +2,29 @@ html {
     scroll-behavior: smooth;
 }
 
+// body {
+//     height: 100%;
+//     background-image: radial-gradient(circle at 3.79% 92.21%,
+//             #a2aad0,
+//             transparent 45%),
+//         radial-gradient(circle at 15.23% 71.63%, #caafcc, transparent 48%),
+//         radial-gradient(circle at 34.1% 72.55%, #f1c6d6, transparent 31%),
+//         radial-gradient(circle at 59.88% 39.32%, #fee5e0, transparent 60%),
+//         radial-gradient(circle at 50% 50.04%, #d2ddeb, transparent 100%),
+//         radial-gradient(circle at 50% 50.04%, #fff5ed, transparent 100%),
+//         radial-gradient(circle at 50% 50.04%, #adc6e3, transparent 100%),
+//         radial-gradient(circle at 50% 50%, #99a0cb, #99a0cb 100%);
+// }
+
 body {
-    height: 100%;
-    background-image: radial-gradient(circle at 3.79% 92.21%,
-            #a2aad0,
-            transparent 45%),
-        radial-gradient(circle at 15.23% 71.63%, #caafcc, transparent 48%),
-        radial-gradient(circle at 34.1% 72.55%, #f1c6d6, transparent 31%),
-        radial-gradient(circle at 59.88% 39.32%, #fee5e0, transparent 60%),
-        radial-gradient(circle at 50% 50.04%, #d2ddeb, transparent 100%),
-        radial-gradient(circle at 50% 50.04%, #fff5ed, transparent 100%),
-        radial-gradient(circle at 50% 50.04%, #adc6e3, transparent 100%),
-        radial-gradient(circle at 50% 50%, #99a0cb, #99a0cb 100%);
+    background-color:hsla(335,0%,100%,1);
+background-image:
+radial-gradient(at 75% 0%, hsla(202,48%,74%,0.8) 0px, transparent 50%),
+radial-gradient(at 5% 37%, hsla(240,51%,79%,0.79) 0px, transparent 50%),
+radial-gradient(at 99% 37%, hsla(24,88%,82%,1) 0px, transparent 50%),
+radial-gradient(at 46% 16%, hsla(344,100%,94%,1) 0px, transparent 50%),
+radial-gradient(at 94% 5%, hsla(317,46%,71%,1) 0px, transparent 50%),
+radial-gradient(at 27% 8%, hsla(12,40%,84%,1) 0px, transparent 50%),
+radial-gradient(at 57% 1%, hsla(248,29%,80%,1) 0px, transparent 50%),
+radial-gradient(at 52% 47%, hsla(25,89%,82%,1) 0px, transparent 50%);
 }
