@@ -48,7 +48,6 @@ export const projects = [
 			github: "https://github.com/thekatcodes/snazzy-snacks",
 		},
 	},
-	,
 	{
 		id: 3,
 		title: "Snazzy Snacks",
@@ -72,6 +71,31 @@ export const projects = [
 		},
 		links: {
 			github: "https://github.com/thekatcodes/scheduler",
+		},
+    },
+    {
+		id: 4,
+		title: "Resource Wall",
+		description:
+			"A full-stack app built in a team environment for the Lighthouse Labs midterm project. This app allow learners to save learning resources in a central place that is publicly available to any user. This project is designed with Figma and built with HTML, SCSS, Bootstrap, Javascript, jQuery, Node.js, Express and PostgreSQL.",
+		skills: [
+			"HTML5",
+			"CSS3",
+			"SASS",
+			"Bootstrap",
+			"Javascript",
+			"React.js",
+			"jQuery",
+			"Node.js",
+			"Express",
+			"PostgreSQL",
+		],
+		image: {
+			src: resourcewall,
+			alt: "Resource Wall thumbnail",
+		},
+		links: {
+			github: "https://github.com/thekatcodes/resource-wall",
 		},
 	},
 ];
