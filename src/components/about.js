@@ -1,5 +1,5 @@
 import React from 'react';
-import Skills from "./skills"
+import Skills from "./Skills"
 
 export default function About() {
     return (
