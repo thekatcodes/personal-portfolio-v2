@@ -1,5 +1,6 @@
 const pokedex = "src/images/pokedex.png";
-const snazzysnacks = 'src/images/snazzysnacks.png'
+const snazzysnacks = "src/images/snazzysnacks.png";
+const scheduler = "src/images/scheduler.png";
 
 export const projects = [
 	{
@@ -25,9 +26,9 @@ export const projects = [
 			"HTML5",
 			"CSS3",
 			"SASS",
+			"Javascript",
 			"React.js",
 			"React-Router",
-			"Javascript",
 			"Node.js",
 			"Express.js",
 			"PostgreSQL",
@@ -41,6 +42,32 @@ export const projects = [
 		},
 		links: {
 			github: "https://github.com/thekatcodes/snazzy-snacks",
+		},
+	},
+	,
+	{
+		id: 3,
+		title: "Snazzy Snacks",
+		description:
+			"A single-page app that allows users to book interviews. It makes requests to an provided API with Axios to fetch and store appointment data from a database. This project is built with React.js, Axios, SCSS and tested using Storybook, Jest and Cypress.",
+		skills: [
+			"HTML5",
+			"CSS3",
+			"SASS",
+			"Javascript",
+			"React.js",
+			"Node.js",
+			"API",
+			"Storybook",
+			"Jest",
+			"Cypress",
+		],
+		image: {
+			src: scheduler,
+			alt: "Interview Scheduler thumbnail",
+		},
+		links: {
+			github: "https://github.com/thekatcodes/scheduler",
 		},
 	},
 ];
