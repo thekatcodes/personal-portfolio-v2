@@ -97,5 +97,30 @@ export const projects = [
 		links: {
 			github: "https://github.com/thekatcodes/resource-wall",
 		},
+    },
+    {
+		id: 5,
+		title: "Tweeter",
+		description:
+        "A simple, single-page Twitter clone. A particular attention was put on the UI of this web page. This project was built upon a provided server-side starter code with the goal of implementing client-side functionality. This project is built using jQuery, JS, AJAX, HTML, CSS, Node, Express and is responsive across desktop and mobile platforms.",
+		skills: [
+			"HTML5",
+			"CSS3",
+			"SASS",
+			"Bootstrap",
+			"Javascript",
+			"React.js",
+			"jQuery",
+			"Node.js",
+			"Express",
+			"PostgreSQL",
+		],
+		image: {
+			src: resourcewall,
+			alt: "Resource Wall thumbnail",
+		},
+		links: {
+			github: "https://github.com/thekatcodes/resource-wall",
+		},
 	},
 ];
