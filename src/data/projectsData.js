@@ -106,21 +106,18 @@ export const projects = [
 		skills: [
 			"HTML5",
 			"CSS3",
-			"SASS",
-			"Bootstrap",
 			"Javascript",
-			"React.js",
+			"Ajax",
 			"jQuery",
 			"Node.js",
 			"Express",
-			"PostgreSQL",
 		],
 		image: {
-			src: resourcewall,
-			alt: "Resource Wall thumbnail",
+			src: tweeter,
+			alt: "Tweeter thumbnail",
 		},
 		links: {
-			github: "https://github.com/thekatcodes/resource-wall",
+			github: "https://github.com/thekatcodes/tweeter",
 		},
 	},
 ];
