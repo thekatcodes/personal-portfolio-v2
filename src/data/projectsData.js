@@ -88,7 +88,8 @@ export const projects = [
 			"jQuery",
 			"Node.js",
 			"Express",
-			"PostgreSQL",
+            "PostgreSQL",
+            "Figma",
 		],
 		image: {
 			src: resourcewall,
@@ -119,5 +120,26 @@ export const projects = [
 		links: {
 			github: "https://github.com/thekatcodes/tweeter",
 		},
-	},
+    },
+    {
+		id: 6,
+		title: "Weather app",
+		description:
+        "This interactive weather app provides weather conditions, relative temperatures (high/low), humidity, wind speed and current time. The app shows relevant data depending on your location. This project uses two APIs, one for current weather conditions and a separate API for the five day forecast. It is built using React.",
+		skills: [
+			"HTML5",
+			"CSS3",
+			"Javascript",
+			"Bootstrap",
+			"React.js",
+			"API",
+		],
+		image: {
+			src: weather,
+			alt: "Weather app thumbnail",
+		},
+		links: {
+			github: "https://github.com/thekatcodes/weather-react",
+		},
+    },
 ];
