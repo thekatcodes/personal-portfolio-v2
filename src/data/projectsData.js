@@ -77,7 +77,7 @@ export const projects = [
 		id: 4,
 		title: "Resource Wall",
 		description:
-			"A full-stack app built in a team environment for the Lighthouse Labs midterm project. This app allow learners to save learning resources in a central place that is publicly available to any user. This project is designed with Figma and built with HTML, SCSS, Bootstrap, Javascript, jQuery, Node.js, Express and PostgreSQL.",
+			"A full-stack app built in a team environment for the Lighthouse Labs midterm project. This app allow learners to save learning resources in a central place that is publicly available to any user. This project is designed with Figma and built with HTML, SCSS, Bootstrap, JavaScript, jQuery, Node.js, Express and PostgreSQL.",
 		skills: [
 			"HTML5",
 			"CSS3",
