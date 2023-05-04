@@ -12,7 +12,7 @@ export const projects = [
 		title: "Pokedex",
 		description:
 			"Pokedex is a fully responsive single-page app that allows users to search for pokemon in the entire pokemon directory. Users can filter their search by pokemon type as well. This project is built using Next.js, Axios, PokeAPI and Tailwind CSS.",
-		skills: ["HTML5", "CSS3", "Next.js", "React.js", "Javascript", "API"],
+		skills: ["HTML5", "CSS3", "Next.js", "React.js", "JavaScript", "API"],
 		image: {
 			src: pokedex,
 			alt: "Pokedex thumbnail",
@@ -30,7 +30,7 @@ export const projects = [
 			"HTML5",
 			"CSS3",
 			"SASS",
-			"Javascript",
+			"JavaScript",
 			"React.js",
 			"React-Router",
 			"Node.js",
