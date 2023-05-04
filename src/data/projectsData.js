@@ -129,7 +129,7 @@ export const projects = [
 		skills: [
 			"HTML5",
 			"CSS3",
-			"Javascript",
+			"JavaScript",
 			"Bootstrap",
 			"React.js",
             "API",
