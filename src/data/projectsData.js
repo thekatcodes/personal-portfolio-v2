@@ -132,7 +132,9 @@ export const projects = [
 			"Javascript",
 			"Bootstrap",
 			"React.js",
-			"API",
+            "API",
+            "Figma",
+            "Netlify",
 		],
 		image: {
 			src: weather,
@@ -151,7 +153,8 @@ export const projects = [
 			"HTML5",
 			"CSS3",
 			"Bootstrap",
-			"Figma",
+            "Figma",
+            "Netlify",
 		],
 		image: {
 			src: portfoliov1,
