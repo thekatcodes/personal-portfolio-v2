@@ -107,7 +107,7 @@ export const projects = [
 		skills: [
 			"HTML5",
 			"CSS3",
-			"Javascript",
+			"JavaScript",
 			"Ajax",
 			"jQuery",
 			"Node.js",
