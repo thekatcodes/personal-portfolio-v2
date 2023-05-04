@@ -103,7 +103,7 @@ export const projects = [
 		id: 5,
 		title: "Tweeter",
 		description:
-        "A simple, single-page Twitter clone. A particular attention was put on the UI of this web page. This project was built upon a provided server-side starter code with the goal of implementing client-side functionality. This project is built using jQuery, JS, AJAX, HTML, CSS, Node, Express and is responsive across desktop and mobile platforms.",
+        "A simple, single-page Twitter clone. A particular attention was put on the UI of this web page. This project was built upon a provided server-side starter code with the goal of implementing client-side functionality. This project is built using jQuery, JavaScript, AJAX, HTML, CSS, Node, Express and is responsive across desktop and mobile platforms.",
 		skills: [
 			"HTML5",
 			"CSS3",
