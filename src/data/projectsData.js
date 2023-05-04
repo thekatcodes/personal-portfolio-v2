@@ -125,7 +125,7 @@ export const projects = [
 		id: 6,
 		title: "Weather app",
 		description:
-        "This interactive weather app provides weather conditions, relative temperatures (high/low), humidity, wind speed and current time. The app shows relevant data depending on your location. This project uses two APIs, one for current weather conditions and a separate API for the five day forecast. It is built using React.",
+        "This interactive weather app provides weather conditions, relative temperatures (high/low), humidity, wind speed and current time. The app shows relevant data depending on your location. This project uses two APIs, one for current weather conditions and a separate API for the five day forecast. It's designed with Figma and built using React.",
 		skills: [
 			"HTML5",
 			"CSS3",
