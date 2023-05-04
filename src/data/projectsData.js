@@ -142,4 +142,23 @@ export const projects = [
 			github: "https://github.com/thekatcodes/weather-react",
 		},
     },
+    {
+		id: 7,
+		title: "Portfolio V1",
+		description:
+        "My first fully responsive website designed with Figma and built using Bootstrap. This site is accessible on desktop and mobile viewports.",
+		skills: [
+			"HTML5",
+			"CSS3",
+			"Bootstrap",
+			"Figma",
+		],
+		image: {
+			src: portfoliov1,
+			alt: "Portfolio V1 thumbnail",
+		},
+		links: {
+			github: "https://github.com/thekatcodes/portfolio-project",
+		},
+	},
 ];
