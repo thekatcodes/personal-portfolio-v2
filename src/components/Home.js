@@ -5,15 +5,16 @@ export default function Intro() {
             <div>
                 <div>
                     <div>
-                        <h1>Hi there! I'm Katie Liu</h1>
+                        <h1>Creative Developer</h1>
                         <h2>
-                            Front-end developer based in Canada
-                            {/* <i class="fa-brands fa-canadian-maple-leaf"></i> */}
+                            Full-Stack capable
                         </h2>
                     </div>
                     <div>
-                        <div></div>
-                        {/* <img src="images/profilepic.png" alt="Profile picture" class="profile-pic" /> */}
+                        <h1>Katie Liu</h1>
+                        <h2>
+                            Front-End addicted
+                        </h2>
                     </div>
                 </div>
             </div>
