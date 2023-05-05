@@ -6,7 +6,7 @@ export const skills = [
 		name: ["HTML5", "CSS3", "SASS", "PostgreSQL"],
 	},
 	{
-		id: Libraries,
+		id: "Libraries",
 		name: [
 			"jQuery",
 			"Axios",
@@ -19,7 +19,17 @@ export const skills = [
 		],
     },
     {
-		id: Tools,
+		id: "Tools",
+		name: [
+			"Git",
+			"Github",
+			"Netlify",
+            "VS Code",
+            "NPM",
+		],
+    },
+    {
+		id: "UI Design",
 		name: [
 			"Git",
 			"Github",
