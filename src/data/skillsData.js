@@ -31,11 +31,11 @@ export const skills = [
     {
 		id: "UI Design",
 		name: [
-			"Git",
-			"Github",
-			"Netlify",
-            "VS Code",
-            "NPM",
+			"Figma",
+			"Photoshop",
+			"Lightroom",
+            "Wireframing",
+            "Mockup",
 		],
 	},
 ];
