@@ -18,4 +18,14 @@ export const skills = [
 			"Tailwind CSS",
 		],
     },
+    {
+		id: Tools,
+		name: [
+			"Git",
+			"Github",
+			"Netlify",
+            "VS Code",
+            "NPM",
+		],
+	},
 ];
