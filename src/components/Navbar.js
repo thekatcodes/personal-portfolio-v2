@@ -12,7 +12,11 @@ export default function Header() {
 				style={{ width: 35 + "px" }}
 			/>
 			<div>
-				<a>About</a>
+                <a>Home</a>
+                <a>About</a>
+                <a>Skills</a>
+                <a>Projects</a>
+                <a>Contact</a>
 			</div>
 		</nav>
 	);
